@@ -14,4 +14,5 @@
 
 
 - Link to my GitHub account [BriCurr](https://github.com/bricurr)
-- Screenshot ![Imageofmyeditor](curry_CCweek2SS.JPG)
+- Screenshot
+![Imageofmyeditor](curry_CCweek2SS.JPG)
