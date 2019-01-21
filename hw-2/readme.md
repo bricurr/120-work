@@ -4,7 +4,7 @@
 
 1. This week we learned how to operate in Atom and Github. We learned the importance and use of version control. We explored text and how to commit and share our work.
 
-2. First I used command prompt to create a text file by doing ```new-item test1.txt```. Then I opened the text file in Atom and learned basic text editing like adding lines. From there I downloaded GitHub and recorded my edits from Atom and make commits. 
+2. First I used command prompt to create a text file by doing ```new-item test1.txt```. Then I opened the text file in Atom and learned basic text editing like adding lines. From there I downloaded GitHub and recorded my edits from Atom and make commits.
 
 3. By carefully following instructions, working along, watching all the videos, and reading every piece of information I was able to complete the week without any issues or confusion. I did not need to make a post this week but soon I probably will!
 
@@ -14,4 +14,4 @@
 
 
 - Link to my GitHub account [BriCurr](https://github.com/bricurr)
-- Screenshot ![Image_of_my_editor](Curry_CCweek2SS.jpg)
+- Screenshot ![Imageofmyeditor](curry_CCweek2SS.JPG)
